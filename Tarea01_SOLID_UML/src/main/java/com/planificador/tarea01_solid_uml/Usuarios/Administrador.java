@@ -1,0 +1,28 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.planificador.tarea01_solid_uml.Usuarios;
+
+
+
+/**
+ *
+ * @author aleja
+ */
+public class Administrador extends Usuario{
+    
+    public Administrador(){
+        
+    }
+    
+    
+    public void configurarPoliticas(PoliticasReservable politicasReservable){
+        
+    }
+    
+    public void ajustarInventarioPaseos(PaseoTuristico paseoTuristico){
+        
+    }
+    
+}
