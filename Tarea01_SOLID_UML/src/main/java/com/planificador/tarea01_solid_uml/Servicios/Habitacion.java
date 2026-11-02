@@ -1,19 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.planificador.completotareauml.Servicios;
 
-import com.planificador.completotareauml.Reservable;
-import com.planificador.completotareauml.Servicios.Servicios;
-import com.planificador.completotareauml.enumerables.EstadoHabitacion;
-import com.planificador.completotareauml.enumerables.OpcionAdicional;
-import com.planificador.completotareauml.enumerables.TipoHabitacion;
+import com.planificador.tarea01_solid_uml.Reservable;
+import com.planificador.tarea01_solid_uml.Servicios.Servicios;
+import com.planificador.tarea01_solid_uml.enumerables.EstadoHabitacion;
+import com.planificador.tarea01_solid_uml.enumerables.OpcionAdicional;
+import com.planificador.tarea01_solid_uml.enumerables.TipoHabitacion;
 
-/**
- *
- * @author aleja
- */
+
 public class Habitacion extends Servicios implements Reservable{
     
     private TipoHabitacion tipo;

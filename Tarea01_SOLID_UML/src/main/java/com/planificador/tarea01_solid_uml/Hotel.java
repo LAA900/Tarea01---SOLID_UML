@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.planificador.completotareauml;
+package com.planificador.tarea01_solid_uml;
 
-import com.planificador.completotareauml.Servicios.Habitacion;
+import com.planificador.tarea01_solid_uml.Servicios.Habitacion;
 import java.util.ArrayList;
 
 /**

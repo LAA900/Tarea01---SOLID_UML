@@ -1,16 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.planificador.completotareauml.Servicios;
 
-import com.planificador.completotareauml.PoliticasReservable;
+package com.planificador.tarea01_solid_uml.Servicios;
+
+import com.planificador.tarea01_solid_uml.PoliticasReservable;
 import java.util.ArrayList;
 
-/**
- *
- * @author aleja
- */
+
 public class Servicios {
     protected String descripcion;
     protected String nombre;
