@@ -4,12 +4,11 @@
  */
 package com.planificador.tarea01_solid_uml.Usuarios;
 
+import com.planificador.tarea01_solid_uml.Reserva;
+import com.planificador.tarea01_solid_uml.Usuarios.Usuario;
+import java.util.ArrayList;
 
 
-/**
- *
- * @author aleja
- */
 public class Cliente extends Usuario {
     
     

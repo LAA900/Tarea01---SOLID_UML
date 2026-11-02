@@ -1,4 +1,4 @@
-package com.planificador.completotareauml.Servicios;
+package com.planificador.tarea01_solid_uml.Servicios;
 
 import com.planificador.tarea01_solid_uml.Reservable;
 import com.planificador.tarea01_solid_uml.Servicios.Servicios;
